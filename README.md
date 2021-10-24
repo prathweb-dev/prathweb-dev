@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prathweb-dev
-- 👀 I’m interested in Fronend web Development✨
+- 👀 I’m interested in Frontend web Development✨
 - 🌱 I’m currently learning React ❄
 
 <!---
